@@ -13,3 +13,5 @@
 5. Fill in the values in `.env` to point to your database & shadow DB
 
 6. Run `npx prisma migrate dev --name init`
+
+7. Run `npm start`
